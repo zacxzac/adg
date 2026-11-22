@@ -10,4 +10,5 @@
 ||bytecdn.com^
 ||ixigua.com^
 ||smtcdns.com^
-||huoshanlive.com…^
+||huoshanlive.com^
+||bytedance.com^
