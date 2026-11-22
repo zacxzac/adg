@@ -1,0 +1,3 @@
+||apig.avatr.com^
+||huaweicloudwaf.com^
+||myhuaweicloud.com^
