@@ -1,0 +1,11 @@
+/.*qznovelvod.com.*/
+/.*fqnovelpic.com.*/
+/.*hongguoduanju.com.*/
+/.*novelquickapp.com.*/
+||douyincdn.com^
+||douyinliving.com^
+||douyinvod.com^
+||douyinstatic.com^
+||amemv.com^
+||bytecdn.com^
+||ixigua.com^
