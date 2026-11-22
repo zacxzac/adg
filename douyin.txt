@@ -10,3 +10,4 @@
 ||bytecdn.com^
 ||ixigua.com^
 ||smtcdns.com^
+||huoshanlive.com…^
